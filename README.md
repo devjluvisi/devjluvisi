@@ -2,7 +2,7 @@
 <h3 align="center">A college freshmen currently exploring the field of Computer Science and working on various projects to find what I enjoy.</h3>
 
 - 📚 Enrolled at San Jose State University (Class of 2025)
-- 🔭 I’m currently working on [TuneStudio2560](https://github.com/devjluvisi/TuneStudio2560)
+- 🔭 I’m currently working on [TuneStudio2560](https://github.com/devjluvisi/TuneStudio2560) and [MyPortfolio](https://github.com/devjluvisi/MyPortfolio)
 
 - 🌱 I’m currently learning **ASP.NET Core, Arduino, JavaScript, C++, Python**
 
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Java, C#, Minecraft Plugin Development, Java Swing, C# Desktop Application Development**
 
-- 📫 How to reach me **jacobluvisi@protonmail.com**
+- 📫 How to reach me **jacobluvisi@pm.me**
 
 - ⚡ Fun fact **I enjoy games like Overwatch, PUBG, COD: Warzone, and CS:GO**
 
