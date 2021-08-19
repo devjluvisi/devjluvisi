@@ -1,4 +1,4 @@
-# New Document<h1 align="center">Hi 👋, I'm Jacob</h1>
+<h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3 align="center">A college freshmen currently exploring the field of Computer Science and working on various projects to find what I enjoy.</h3>
 
 - 📚 Enrolled at San Jose State University (Class of 2025)
