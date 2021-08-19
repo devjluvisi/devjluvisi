@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jacobluvisi@pm.me**
 
-- ⚡ Fun fact **I enjoy games like Overwatch, PUBG, COD: Warzone, and CS:GO**
+- ⚡ Fun fact **I enjoy games like Overwatch, COD Warzone, COD Cold War, Minecraft and CS:GO**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
